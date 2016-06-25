@@ -50,7 +50,7 @@ func Head() {
 <style type="text/css">
 body{background-color:rgba(255,255,255,1.0);font-family:'Lato',sans;}
 p{padding:2px;font-size:14px;}
-span.lines{color:rgba(35,35,35,1.0);background-color:rgba(230,230,230,1.0);margin:0px 20px 0px 6px;padding:4px;width:128px;text-alingn:center;}
+span.lines{color:rgba(35,35,35,1.0);background-color:rgba(230,230,230,1.0);margin:0px 40px 0px 6px;padding:4px;text-alingn:center;}
 span.script{white-space:pre;font-size:18px;)
 </style>
 <head>

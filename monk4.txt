@@ -1,7 +1,7 @@
 Title: "Apocalypse Mountain"
 Author: Gushi Tang
 Email: <gushitang@gmail.com>
-Date: 2016-06-20
+Date: 2016-06-24
 Genre: Anime
 Draft: 1 (Alpha)
 
@@ -14,6 +14,8 @@ to help her save Humanity's Soul at
 The End of Time.
 
 
+
+
                                 FADE IN
 
 EXT. NEAR THE PEAK OF A COLOSSAL MOUNTAIN
@@ -23,8 +25,10 @@ looking out from the peak of EVEREST.
 
 The BLEEDING HAND of THE GIRL grasps an
 outcropping of JAGGED ROCK as she strains
-to PULL herself up, punished by ice and wind,
-until she COLLAPSES on a LEDGE.
+to PULL herself up. 
+
+Punished by ice and wind, she COLLAPSES 
+on a LEDGE.
 
             THE GIRL
         (exhausted)
@@ -1612,7 +1616,7 @@ And as she RAISES it to the SKY.
 
 UNLEASHES the cry that has been used to rally
 the hearts of Frenchmen since they took 
-their country form the ROMANS:
+their country from the ROMANS:
 
 "MONTJOIE SAINT-DENIS!"
 

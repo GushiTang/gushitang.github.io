@@ -66,7 +66,8 @@ span.script{white-space:pre;font-size:18px;)
 }
 
 func Foot() {
-    ft := `</body>
+    ft := `<br /><p>Copyright &copy; 2016 Gushi Tang. All rights reserved.</p>
+    </body>
 </html>`
     // fmt.Println(ft)
     Wrtr.WriteString(ft)

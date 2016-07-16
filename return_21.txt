@@ -1,0 +1,1561 @@
+TITLE The Return of Amontillado
+AUTHOR Gushi Tang
+EMAIL <gushitang@gmail.com>
+DATE 2016-07-14
+DRAFT 1.8
+GENRE Creepypasta
+ENCODING GT 1.1
+
+CHARACTER MAP
+VAL VALENTINO
+LIS LISE FORTUNADO
+GOT DR. ANTONA GOTFRUNDI
+ROS ROSS MINNOW
+KAT KATY WO
+ANA ANA MONTRESOR
+EXE MOTRESOR EXECUTIVE
+ORT FRAU ORTSTIEN
+BEL BELLATOR MONTRESOR
+SIN SINCERA MONTRESOR
+MAD MADGER MONTRESOR
+ALL MONTRESOR BOARD MEMBERS
+PIM PIM
+PEP PEPE
+LUN DR. LUNG
+IVO IVOR
+FOR FORTUNADO
+HAD HADES
+
+ELEMENT MAP
+SC SCENE HEADING
+AC ACTION
+DL DIALOGUE
+PA PARENTHETICAL
+FI FADE IN
+FO FADE OUT
+
+BEGIN
+
+FI FADE IN
+
+SC EXT. VENICE, ITALY - MORNING
+
+AC On the Via Bazzerea, two Yellow Cabs drive listlessly toward
+AC the Aero Porto Marco Polo, where they will enact their daily
+AC morning ritual of vying for the lucrative tourist fares.
+
+AC The drivers are YELLING at one another over a minor offense.
+
+AC One brandishes a Toscanello cigar, extending it far out his
+AC open window.
+
+AC TIGHT ZOOM on the cigar's dimly-lit tip. 
+
+AC A long finger of ash dangles from its end as a fine thread 
+AC of Armangnac-scented smoke swirls toward the sky.
+
+AC A vintage Alfa Romeo in Sicilian Plum Red CLIPS the ash with
+AC its side mirror as it passes rapidly between the two taxis.
+
+AC The hand-stenciled logo of "Valentino's Taxi Servicio" 
+AC adorns its somewhat inartfully restored side door panel.
+
+SC EXT. VENICE AIRPORT
+
+AC The ambitious VALENTINO pilots the auto straight into the 
+AC Arrivals Gate of the bustling airport.
+
+AC Other waiting operators shout at him for jumping the queue,
+AC but Valentino has already spotted his target.
+
+AC As he pinions flush against the curb, the screeching brakes
+AC get the attention of LISE FORTUNADO.
+
+AC She smiles behind enormous designer sunglasses.
+
+DL VAL Signora! Benarrivato a Venetia!
+DL VAL How does a quick tour around 
+DL VAL the Lido sound? Before I take you 
+DL VAL to your hotel, Signora!
+
+DL LIS No. I need to get to Il Archivi 
+DL LIS Nationale immediately. Do yo know
+DL LIS the way?
+
+DL VAL Five minutes! Presto! Entra!
+
+SC EXT. VIA DI MESTRE
+
+AC Minor traffic as Valentino and Lise sit side-by-side.
+
+DL LIS Alfa Classico. Molto bella!
+
+DL VAL I fixed it up myself. Found it in
+DL VAL a junk yard when it called out to
+DL VAL me: "Valentino, Salva Mia!"
+
+DL LIS And the color? It matches your 
+DL LIS sharpa.
+
+DL VAL Tourists come to Venice looking 
+DL VAL for life and love and fun and 
+DL VAL adventure. I want to remind them 
+DL VAL they are someplace special, not 
+DL VAL back home in...
+
+DL LIS New York.
+
+DL VAL Ah, well, New York is special. 
+DL VAL Like Venice.
+
+DL LIS Ever been?
+
+DL VAL I have never been outside of 
+DL VAL Venice, Mrs...
+
+DL LIS Ms. Fortunado. Lise Fortunado.
+
+DL VAL Italiano!
+
+DL LIS American. But my ancestori. 
+DL LIS An old Venitian family.
+PA LIS (inquisitive)
+DL LIS Perhaps you've heard the name? 
+PA LIS (boldly)
+DL LIS Fortunado!
+
+SC EXT. ARCHIVIO STORICO
+
+AC Valentino WHIPS the car through three lanes of traffic and
+AC halts, brakes screeching again, flush against the curb.
+
+AC The Beaux-Arts entrance is abuzz as scholars begin their day.
+
+DL VAL When I was little. Mia Nonna. 
+DL VAL She had a map she used to show 
+DL VAL us! No, not a map...
+
+DL LIS A family tree!
+
+DL VAL Si. "Family tree." At the top, 
+DL VAL you know, it said "Adamo et Eva!" 
+DL VAL But somewhere in there...
+DL VAL That name. I remember. Fortunado!
+
+DL LIS And was there a crest? Attached 
+DL LIS to the name?
+
+DL VAL A crest? Yes! A golden heel!
+
+DL LIS Crushing a serpent?
+
+DL VAL Mio Dio! What does it mean?
+
+DL LIS Now, Valentino. Let me ask about 
+DL LIS another name. Montresor! Have 
+DL LIS you heard it?
+
+DL VAL You jest! 
+
+DL LIS You know it well, I presume.
+
+DL VAL Il Titani del Venetia! Although 
+DL VAL few remain. The company moved 
+DL VAL to America.
+
+PA LIS (sotto voce)
+DL LIS Titans! How they will suffer 
+DL LIS like Prometheus!
+
+DL VAL Did you know they started as wine 
+DL VAL traders? Right in the Piazza di 
+DL VAL Commedia. And now...
+
+DL LIS Titans of industry. Their fame 
+DL LIS as resplendant as Fortunado 
+DL LIS lies forgotten.
+
+DL VAL You did not come to Venetia to 
+DL VAL see the Doges. Or to ride in the 
+DL VAL gondola. Or meet a lover.
+
+DL LIS That is right, Valentino! 
+DL LIS Revanchi! For my family! 
+DL LIS And yours!
+
+AC Lise EXITS the alfa romeo and spots DR. ANTONA GOTFRUNDI who 
+AC wheels a large metal Tumi case.
+
+PA LIS (to Valentino)
+DL LIS Viva Fortunado!
+
+PA VAL (unsettled)
+DL VAL Viva...
+
+AC Valentino PEELS away from the curb. Pronto.
+
+AC Lise turns and gives a triumphant wave to her friend.
+
+SC EXT. MONTRESOR SHAREHOLDERS PARTY
+
+AC The central campus of Montresor's global headquarters has been
+AC transformed into the stage of a colossal company celebration.
+
+AC One part Ringling Bros. Circus, one part Iowa State Fair. 
+AC Brushed with a subtle veneer of Carnevale di Venetia motifs.
+
+AC A mass of executives, family members and public shareholders
+AC revel in the performances and diversions.
+
+AC The games of chance that ring the arena are all themed on 
+AC the different industrial divisions of the Montresor 
+AC conglomerate: chemical, defense, agricultural, telecom, etc.
+
+AC Off to one side is the giant white Executive Pavillion where the
+AC Montresor Empire's High Command enjoy their just fruits.
+
+AC Topping the tent, a 50 foot white banner UNFURLS in the breeze,
+AC revealing the Montresor Company Logo: the unique curvilinear
+AC bottle shape that for centuries was used to store that rarest 
+AC of vintages. 
+
+AC Amontillado!
+
+SC INT. MONTRESOR EXECUTIVE BIG TENT
+
+AC KATY WO, in waitstaff uniform, serves canapes with a giant
+AC fake smile. A ring of tipsy and famished executives pick at the
+AC tray as it is offered before them.
+
+DL KAT The pink ones are smoked salmon 
+DL KAT mousse with a peanut sriracha 
+DL KAT glaze. And the green ones are
+DL KAT Basque-inspired chive and 
+DL KAT potato pintxos.
+
+AC A random MONTRESOR EXECUTIVE grabs a pink one and sniffs.
+
+DL EXE Are they vegan?
+
+DL KAT Absolutely. Chef Grafite jetted in
+DL KAT from Venice last night and brought
+DL KAT most of his own ingredients with 
+DL KAT him on the Gulfstream. Including
+DL KAT a special "vegan" lega salmon.
+
+AC The executive shovels several into her mouth. She washes the
+AC contents down with a mammoth tankard overflowing with Rose.
+
+AC She hands the empty chalice to Katy.
+
+DL EXE Next year darling, try serving
+DL EXE wine in something larger than
+DL EXE a mere thimble!
+
+PA EXE (fist pump, stumble)
+DL EXE Viva Montresor!
+
+PA KAT (to herself)
+DL KAT She that killeth whilst drunk...
+
+AC The manicured fingers of Sales Executive ROSS MINNOW intrude 
+AC unwantedly on the small of Katy's back.
+
+PA ROS (overhearing)
+DL ROS ...will be hanged once she's sober.
+
+DL KAT Potato mousse? Or, rather...
+
+AC As she moves to escape Ross' clutch, the cup COLLIDES with the
+AC tray. Ross is showered with fluffy salmon. Potatos saturated 
+AC with Provencal butter cling to his crisp Thomas Pink shirt.
+
+AC In the background, inebriated executives watching this 
+AC spectacle howl with glee and commence their own FOOD FIGHT.
+
+AC Some of the collateral bits of the melee reach the pair.
+
+AC Ross grabs Katy's arm, and LEADS her out of the tent.
+
+DL ROS Come on! Let's see if we can't 
+DL ROS rustle up something fizzy to 
+DL ROS rid us of these stains.
+
+SC EXT. BIG LAWN BEHIND EXECUTIVE TENT
+
+AC ANA MONTRESOR, dressed in waitstaff uniform, is serving
+AC the final drink from her tray to a group of debauchees.
+
+AC She spots Ross pulling Katy into the make-shift caterer's
+AC compound where food prep and staging take place.
+
+AC And BOLTS after them.
+
+SC INT. CATERING STATION
+
+AC As they enter a dimly-lit storage unit in the back, Ross
+AC begins to UNBUTTON his shirt.
+
+AC Katy realizes they are alone. 
+
+AC Ross begins to sidle up to her.
+
+DL ROS Noblesse oblige... 
+
+AC Ana BURSTS upon the scene.
+
+DL ROS Well! If it isn't the scion 
+DL ROS herself.
+
+DL ANA Mr. Hernish is it? Chief of 
+DL ANA Fertilizer Sales for
+DL ANA Europe and the Middle East?
+
+DL ROS Minnow. Aquacultural Equipment. 
+DL ROS The Americas.
+
+DL ANA Such a lot of names I'll have 
+DL ANA to to remember once I'm
+DL ANA running this show. Fortunately,
+DL ANA yours is one of the easier ones.
+
+DL ROS If you ever make it out of
+DL ROS Hospitality! I do hope you
+DL ROS find yourself in Fisheries.
+DL ROS Under me and some of my boys.
+
+AC Ross now turns his attention to Ana, his shirt half open.
+
+DL ANA When you sober up in the morning...
+
+DL ROS Let the Montresors hang me!
+
+AC Ross pounces as Ana delivers a swift ROUND-HOUSE kick to his bare 
+AC sternum. 
+
+AC He JOLTS backward into a wall of cooking crates as a maelstrom of 
+AC heavy pots and pans cascade down onto his head.
+
+DL ROS "No one provokes me..."
+
+AC Ross PASSES OUT.
+
+DL ANA C'mon Katy. They need you upstairs.
+
+DL KAT Me? Why?
+
+DL ANA Dunno. But Ort-Fiend asked for you.
+PA ANA (thick transylvanian accent)
+DL ANA "Bring the little maus"
+DL ANA They need someone to serve
+DL ANA drinks to The Board.
+
+DL KAT But I'm covered in salmon!
+DL KAT She will have me buried alive!
+
+AC Ana grabs a bottle of seltzer and bar rag from the shelf.
+
+SC INT. CONFERENCE ROOM ATRIUM
+
+AC Katy looking like new holds a tray of silver goblets.
+AC While FRAU ORTSTIEN, Director of Hospitality, pours
+AC a thick, sweet-looking dessert wine into each one.
+
+DL ORT Gespenstlichkeit!
+
+DL KAT Looks rather treacly for my 
+DL KAT taste. I prefer a lite Sancerre.
+
+DL ORT Not the wine dumbkopf! 
+DL ORT It means "like a ghost!"
+DL ORT You are to enter, serve the 
+DL ORT wine and glide out as if
+DL ORT you never existed.
+
+PA KAT (hypnotized)
+DL KAT "ghost-like"
+
+AC Frau Ortstien finishes pouring and begins stroking Katy's
+AC face and hair with her long bejeweled fingers.
+
+AC As Frau Ortstien bends down to whisper her final instructions,
+AC Katy's eyes fix SPELLBOUND on the dangling necklace which
+AC swings pendulum-like from the neck of Frau Ortstien.
+
+AC ZOOM IN to its pendant symbol, a long isoceles triangle
+AC with a blood-red sapphire crescent inlaid into its base.
+
+DL ORT A little mouse. Blind, deaf
+DL ORT and insensible to anything
+DL ORT they may be discussing in there.
+
+DL KAT "mouse-ghost"
+
+AC The broad wooden doors of the conference room BURST open flooding
+AC the darkened atrium with bright light.
+
+SC INT. ANTIQUATED MAPS ROOM,  ARCHIVI NATIONALE
+
+AC Dr. Gotfrundi removes a HOLOGRAPHIC PROJECTION UNIT from her case.
+
+AC She places it on the Mapreading Table and flicks a switch.
+
+AC She hands Lise an AUGMENTED REALITY VISOR and dons an additional
+AC pair herself.
+
+AC The ancient catacombs that lie buried beneath the Old City!
+AC Reconstructed into a three-dimensional image and suspended
+AC as if by witchcraft in the space between Lise and Dr. Gotfrundi.
+
+SC INT. HOLOGRAPHIC PROJECTION, CATACOMBS
+
+AC Lise and Dr. Gotfrundi walk into a magnificent antechamber, its
+AC walls rendered in a glitchy, vectorized phosphorescent red.
+
+DL GOT This is the latest Lidar infrared data.
+
+AC Lise's attention turns to a smaller closet-like space near one
+AC of the back walls. A pixelated blob lies inside.
+
+DL LIS Mio dio! The walled up tomb!
+
+DL GOT I knew you would be thrilled.
+DL GOT Congratulations my old friend.
+
+DL LIS Is there any way? I mean, can 
+DL LIS it be enhanced?
+
+DL GOT Not without a sub-micron probe.
+DL GOT But if you look closely...
+
+DL LIS His arms! So he must have been...
+
+DL GOT Chained to the wall. Insanity
+DL GOT would have set in. Then,
+DL GOT slow death by asphyxiation. Even
+DL GOT today it remains nitrogenated.
+
+DL LIS Don't go in again.
+
+DL GOT But Lise, the excavation begins
+DL GOT after Michelmas.
+
+DL LIS Let him sleep. Let this vital 
+DL LIS taint remain as it has been
+DL LIS these last four centuries.
+DL LIS Forgotten!
+
+SC INT. MAP ROOM
+
+AC They remove their headsets and stare hypnotically at the light
+AC projection as it SPINS between them.
+
+AC GRADUAL ZOOM right into that infernal Chamber of Death.
+
+AC The blurry image of ancient Fortunado chained to the wall grows
+AC ever larger as we hear Lise's cry of revenge:
+
+DL LIS It is time to hasten 
+DL LIS the inevitable!
+
+PA GOT (unsure)
+DL GOT Vital...taint?
+
+SC INT. BOARD ROOM, MONTRESOR EMPIRE
+
+AC There are no outside members on the Montresor Board of Directors.
+AC It is all family.
+
+AC Several generations sit around the large oak table in the center.
+
+AC At the two far ends are the reigning King and Queen: BELLATOR
+AC MONTRESOR, currently serving as Chairman, and his wife, SINCERA
+AC MONTRESOR, CEO of the corporation.
+
+AC On the walls, a gallery of contemporary paintings of immense
+AC power. Represented by the likes of such artists as:
+AC Francis Bacon, Lucien Freud, the Chapman Brothers and other
+AC masters of the grotesque and grim.
+
+AC Katy Wo glides in soundlessly with her tray of goblets.
+
+PA SIN (in mid discussion)
+DL SIN ...And he is at it again! 
+DL SIN Blocking our acquisition of
+DL SIN Mongolia Copper at the
+DL SIN Pan-Asian Eco Forum.
+
+DL BEL It's an oversight committee.
+DL BEL They can't actually stop us.
+
+DL SIN That's not the point! His
+DL SIN Lordship, The Illustrious Khan
+DL SIN of Garika has been a thorn in
+DL SIN the side of the Montresor's
+DL SIN interests for far too long!
+
+DL BEL I'm having brunch with Mac Bobbi
+DL BEL at the Croquet Club next Sunday. 
+DL BEL He plays Polo with the Khan!
+DL BEL Why don't we...
+
+DL SIN I think it's too late for that.
+DL SIN We can't afford another failure
+DL SIN like with FlanBev.
+
+DL BEL And why is it my fault we didn't
+DL BEL add a Trappist Ale House to 
+DL BEL your burgeoning collection?
+
+DL SIN Because now the House of Garika 
+DL SIN owns 80% of global brewery 
+DL SIN and spirit distribution! That
+DL SIN by all rights should be ours!
+
+DL BEL My dear beloved betrothed, 
+DL BEL the Montresor family has not
+DL BEL sold a drop of spirits since...
+
+DL SIN It's not the beer! My cherished
+DL SIN soul mate. It's the channel, the
+DL SIN partnerships, the customers, the
+DL SIN network and on and on! Just 
+DL SIN because I was not born into this 
+DL SIN family...
+
+DL BEL Doesn't mean you have not earned
+DL BEL the name of Montresor!
+
+DL SIN Viva Montresor!
+
+DL ALL Viva Montresor!
+
+AC The shout breaks Katy's spell and she begins to notice her 
+AC bizarre surroundings.
+
+AC Most prominently, an unusual looking DEVICE on the far table.
+AC A tall tower of glass and steel with a giant chamber and 
+AC pump system surrounded by rubber tubes and capillaries.
+
+PA KAT (to herself)
+DL KAT Sweet hookah! Perhaps they'll 
+DL KAT permit me to stoke the brazier!
+
+DL SIN How this noble family can suffer
+DL SIN the thousand slights provocated
+DL SIN upon us by the Khan? Now with
+DL SIN this final insult, I have but one
+DL SIN final recommendation!
+
+DL BEL No.
+
+DL SIN Yes! The Assassination List!
+
+AC The collective shock of the other members wakes those whose
+AC attention had been only perfunctory up until this moment.
+
+AC MADGER MONTRESOR, the grand ancient patriarch of the clan,
+AC and keeper of its institutional history and wisdom, clears
+AC his throat to address the assembled Board.
+
+DL MAD Let's consult The Book. If 
+DL MAD memory serves the last time
+DL MAD we needed to resort to that 
+DL MAD illimitable dominion, was more
+DL MAD than a decade ago. My father
+DL MAD still held the Chair then.
+DL MAD American Aquaculture CEO I
+DL MAD believe was the unfortunate.
+
+AC Madger gets up to fetch the large leather bound folio that
+AC contains the littany of secrets regarding Montresor's rise
+AC to infamy and power.
+
+AC On his way toward the shelf, he comes FACE-TO-FACE with Katy.
+
+DL MAD Are you the virgin?
+
+AC The rest of the assembled Board members find this uproarious.
+
+DL SIN It looks like the Grauburgunder
+DL SIN Frau Ort-Demon has chosen as
+DL SIN our palate cleanser.
+PA SIN (sniffs the air)
+DL SIN A sickly sweet vintage from
+DL SIN the Lower Palatinate,
+DL SIN Rhienpfalz, Germany.
+
+DL BEL That should pair nicely with tart
+DL BEL virgin blood. 
+PA BEL (addressing Katy)
+DL BEL And are you from Germany as well?
+
+DL KAT Calif--
+
+DL SIN Silence my mate! She's just
+DL SIN the server. I've picked an
+DL SIN exquisite French-Moroccan specimen
+DL SIN for the ceremony.
+
+DL MAD Moroccan! A hint of Saffron
+DL MAD no doubt! Well let's get on
+DL MAD with it then.
+
+DL BEL Yes, a magnificent thirst is 
+DL BEL upon me! We will consult 
+DL BEL The List while toasting with 
+DL BEL fresh virgin blood!
+
+DL SIN Very well!
+PA SIN (to Katy)
+DL SIN After you finish serving tell
+DL SIN Frau Ortstien to send in The
+DL SIN Curates with The Virgin.
+
+DL KAT Very well, Madame Montresor.
+
+DL SIN Did you hear, she called me
+DL SIN Madame!
+
+AC The entire table finds this new gag just as raucous.
+
+AC Katy finishes placing a goblet in front of each member while
+AC trying to avoid eye contact and be as INVISIBLE as possible.
+
+DL BEL Something tells me the little
+DL BEL mouse's blood would go well...
+
+DL SIN Enough! She's already heard.
+
+AC Sincera grabs Katy's arm as she is exiting with the empty tray.
+
+PA SIN (staring deep into Katy's eyes)
+DL SIN Not a word, dear.
+DL SIN You are a ghost.
+PA SIN (putting a finger to her lips)
+DL SIN Shhhhhhhh.
+
+AC Katy opens the gigantic doors and is greeted by two tall CURATES
+AC in priestly dress. Standing between them is a YOUNG VIRGIN decked
+AC in a white silk robe. A heavy lustrous necklace dangles from her
+AC neck with the symbol of the Montresors: 
+
+AC The Amontillado Bottle!
+
+AC Frau Ortstien ushers Katy out and the Ceremonial Party in.
+
+PA ORT (to Katy)
+DL ORT Leave.
+
+AC Frau Ortstien begins closing the heavy doors behind her. 
+
+AC Sincera initiates the formalities of the ceremony.
+
+AC A distracted Frau Ortstien accidentally leaves the door open a
+AC tiny crack.
+
+AC Affording Katy a hidden view of the ritual!
+
+AC Frau Ortstien helps the Curates hook the young woman up to an
+AC intraveneous tube on the transfusion device. They pull up
+AC the sleeve of her robe and tie off her arm with one of the
+AC rubber hoses. As they search for a vein...
+
+AC Katy stealthily removes a Samsung X phone from her back pocket.
+
+AC She FILMS the proceedings through the tiny gap.
+
+PA KAT (whispering)
+DL KAT For the love of God, Montresor!
+
+SC EXT. EDEN RESORT, SRI LANKA
+
+AC Tropical heaven. Oceanfront bungalows shimmer in the heat
+AC as the trade winds massage 30 meter tall coconut trees.
+
+AC Along the shallows, verteran fisherman cast hand made nets
+AC from dugout wooden outrigger canoes. This is the Lanka of two
+AC millenia ago.
+
+AC On the beach in front of them is a pastel pink stilt house
+AC suspended high over the crystal azure waters.
+
+AC Its roof is a jumble of antennae, wires and satellite dishes.
+
+AC The PURR of an alternating current transformer that supplies
+AC power to the inhabitants of the house from a solar array and 
+AC hydrogen fuel cell energy unit signals its uniqueness in the
+AC unchanging landscape.
+
+AC A tiny motor boat approaches the house and spins at its ladder
+AC which descends from the grand veranda, right into the water.
+
+AC Lise Fortunado expertly pilots the skiff adjacent to the house's
+AC empty docking station and ties her main line onto a waiting
+AC shiny metal cleat.
+
+DL LIS Permission to come ashore!
+
+SC INT. EDEN BUNGALOW - AFTERNOON
+
+AC The Hacker Haus of the notorious elite Swedish programmer known
+AC only as PIM. But rather than a den of empty soda cans and dvds,
+AC it is appointed in minimalist white Nordic Modern furniture, with
+AC distinctive Colombine flourishes: a basket of papayas, batik silks.
+
+AC In the center is a 14-seat Finn Juhl glass dining table. On top
+AC of which sits a black robotic drone hooked up to an oscilloscope.
+
+AC Two long work tables hold single high powered gaming laptops each.
+
+AC Twin giant 30-inch monitors display running streams of
+AC financial, network, social media and military data.
+
+AC At one table sits Pim's colleague, PEPE. He is typing Assembly
+AC code into a keyboard as fast as he can mentally design it.
+
+AC From his giant Sennheiser headphones, the faint sounds of an
+AC atonal Pierre Boulez cantata bleed into the room.
+
+DL LIS It's amazing Pim! Full 3D
+DL LIS holographic reconstruction.
+DL LIS And with the augmented reality
+DL LIS system it's like...the metaverse.
+
+DL PIM You're amazing, Lise. I won't
+DL PIM ask what you had to do.
+
+DL LIS Nothing really. An old friend
+DL LIS owed me a favor.
+
+DL PIM The critical first step of my
+DL PIM magnum opus! We still have to get
+DL PIM the sub-micron Lidar probe to
+DL PIM the team in Mayadun. Then get the
+DL PIM data back out once its captured...
+
+DL LIS Well if anyone can, it's you Pim!
+DL LIS Should you be revealing all this
+DL LIS in front of him? Or me for that
+DL LIS matter?
+
+DL PIM Don't worry about Pepe. He's 
+DL PIM jacked in. And you? I know you
+DL PIM can keep secrets down through 
+DL PIM the centuries!
+
+PA LIS (mesmerized by the code)
+DL LIS Just for lulz?
+
+DL PIM Stux Net. Part Deux. 
+DL PIM You don't want to know who the
+DL PIM target is this time.
+
+DL LIS I'll use my imagination.
+
+DL PIM All I can say is our benefactor 
+DL PIM desires neither security, nor
+DL PIM justice. But Revenge!
+
+DL LIS My favorite! Who's the client?
+
+DL PIM Unit Eighty Six Hundred.
+
+DL LIS Pity it's not our friends on
+DL LIS the Garikan Peninsula. We could
+DL LIS kill two birds...
+
+DL PIM Yes. About that. The details of
+DL PIM your meeting have been changed.
+
+DL LIS Pim. If you...
+
+DL PIM Relax. It's good news, Lise! The
+DL PIM Khan of Garika himself has 
+DL PIM sanctioned you an upgrade.
+
+DL LIS I'm listening.
+
+DL PIM Dr. Lung.
+
+DL LIS Minister of Security?
+
+DL PIM That was his old job. He's now
+DL PIM running Garikan cyber command. 
+DL PIM Very few outside the regime
+DL PIM are aware they even have such 
+DL PIM a unit. But, it's reputation...
+
+DL LIS Capable?
+
+DL PIM Dark. Unfathomed.
+
+DL LIS Good.
+
+SC INT. EDEN BUNGALOW - SUNSET
+
+AC The oscilloscope has been unplugged and put away, but the blinking
+AC red lights of the black spherical drone keep continual watch over
+AC the dining table. 
+
+AC It has been pushed to the far side as a grand Lankan feast has been
+AC laid out: whole rock lobsters, fish and egg curry, veggie
+AC fritters and tempura seaweed.
+
+AC Lise, Pepe and Pim are sopping up the last remnants of sambai
+AC and coconut chutney with bits of roast paan bread.
+
+PA PEP (telling his tale)
+DL PEP ...After Goldamort was caught,
+DL PEP Secret Service began to hone in
+DL PEP on our location. If it wasn't
+DL PEP for Pim's Army extracting me
+DL PEP I'd probably be in a windowless 
+DL PEP basement at Fort Meade right
+DL PEP about now, instead of Eden!
+
+DL PIM Purely selfish on my part.
+DL PIM It was during the Franco
+DL PIM Bank raid. And I needed an
+DL PIM accomplice. You know, Lise?
+DL PIM The ability in this world,
+DL PIM to be able to spot raw talent.
+
+DL LIS Is that what you were Pepe? Raw?
+
+DL PEP I don't know about the 
+DL PEP talent part. But I lacked polish
+DL PEP and sophistication. I was a 
+DL PEP cyber pirate, sailing the binary 
+DL PEP seas for anarchy and digital booty.
+DL PEP Pim taught me to be proud of my 
+DL PEP work. He showed me its importance
+DL PEP in the sweep of history.
+
+DL LIS From what insane root have you
+DL LIS been feeding this poor lad, Pim?
+
+DL PIM Just the finest fresh ceylon
+DL PIM ginger paste. Our fish curry 
+DL PIM tonite is saturated with it.
+
+DL LIS It's phenomenal! Local? I mean
+DL LIS is it indigenous to this Bay?
+
+DL PIM Caught about forty meters outside
+DL PIM our dock. The resort uses only
+DL PIM sustainable resources.
+
+DL PEP Now they do.
+
+DL PIM In the course of our research
+DL PIM into Montresor we discovered an
+DL PIM enormous hatchery operation that
+DL PIM was disrupting the local fish
+DL PIM market ecosystem.
+
+DL PEP And suddenly there was a glitch
+DL PEP in their cage door controller.
+DL PEP Some unseen hand caused it to
+DL PEP swing wide open around 4:20 A.M!
+
+DL PIP Mother ocean wants you back 
+DL PIP little fiskas!
+
+DL LIS Down with Montresor.
+
+DL PEP Lise, do you mind me asking?
+
+DL LIS You want to know the root of my
+DL LIS obsession with the Montresor
+DL LIS Empire, Pepe?
+
+DL PEP It's just...our inquiries have
+DL PEP been exhaustive. Our GCHQ work isn't
+DL PEP even this rigorous.
+
+DL PIM I remember, that bleak December. 
+DL PIM The El Dorado Casino and Hotel. 
+DL PIM Las Vegas.
+
+DL LIS Pepe does not need to hear that.
+
+DL PIM Why ever not? One of your 
+DL PIM proudest moments Mata Hari!
+
+DL LIS Assignment: Infiltrate DEFCON!
+
+DL PEP Sweet.
+
+DL PIM I was presenting that oblong box
+DL PIM thing.
+
+DL LIS The "Re-Gurgitator!"
+
+DL PIM "De-Intermediator." Still doesn't
+DL PIM work quite right. I was nervous
+DL PIM the night before. Pacing the
+DL PIM hallways outside my room.
+DL PIM Weak and weary. When out of
+DL PIM the blue pops this insane Kandi
+DL PIM Raver Kid!
+
+DL LIS My sources said you were Absolut 
+DL LIS into electronic music at the time.
+
+DL PIM Swedish electro house is very
+DL PIM different than that PLUR...
+
+DL LIS Whatever! Armed with my six inch
+DL LIS platforms and fishnets I wasn't
+DL LIS gonna be ignored!
+
+DL PIM She asked me to be a gentleman.
+DL PIM And help her "remove her boots!"
+
+DL PEP And that worked? She could have
+DL PEP been NSA!
+
+DL PIM I knew all along what she was.
+
+DL LIS Yeah right! It was only the next
+DL LIS morning when you accessed my
+DL LIS Gmail and found the fat dossier
+DL LIS I had on Pim, The Shadow. Most
+DL LIS ungentlemanly like!
+
+DL PIM Still. You were impressed.
+
+DL LIS When I saw how easily you got
+DL LIS into my ahem, folders. I knew 
+DL LIS I had found the one.
+
+DL PEP Are we still talking about
+DL PEP hacking here?
+
+DL PIM Turned out she's layers more 
+DL PIM insidious than NSA. Absolut!
+
+DL LIS What can I say? I was selfish.
+DL LIS I needed an member of the elite.
+
+SC INT. MONTRESOR BOARD ROOM
+
+AC The transfusion machine is now brimming with several pints of
+AC freshly harvested virgin blood.
+
+AC Frau Ortstien removes a long needle from the arm of the virgin
+AC who COLLAPSES into the the attending Curates. She is weak from
+AC her ample donations.
+
+AC POV SHOT through Katy's phone screen of the ritual.
+
+AC Frau Ortstien decants glasses of the frothy red liquid.
+
+AC Sincera Montresor serves each member while invoking a mysterious
+AC and haunting incantation.
+
+AC Toasts are made. Short passages of Medieval Italian verse are
+AC recited from The Book.
+
+AC SHOUTS of "Viva Montresor!" resound from the room into the
+AC atrium where Katy remains silently filming.
+
+PA SIN (interrupting loudly)
+DL SIN What's the matter with her!
+
+AC The virgin CONVULSES and slips through the arms of the Curates.
+
+AC She lands on the floor HARD. Then after a final twitch, lies 
+AC utterly still.
+
+AC Madger RISES to investigate. 
+
+DL MAD Ah. Looks like we've taken too
+DL MAD much. Make a note of it. Next
+DL MAD time we'll need two virgins.
+
+PA KAT (whispers)
+DL KAT There won't be a next time.
+
+DL BEL Is she?
+
+DL MAD "To the kingdom, by the sea."
+
+DL SIN Perhaps this gives us an
+DL SIN opportunity. Shall we invoke 
+DL SIN the Rites of Nero?
+
+AC The mention of a so dark and ancient a custom sends a SHUDDER
+AC through the assembled congregation.
+
+AC Yet still, a slow chant begins to emerge:
+
+DL ALL Nero. Nero. Nero.
+
+AC The chants grow louder gradually as the board members begin to 
+AC rise from their seats around the conference table.
+
+AC Katy steels herself to keep filming, despite the preponderance of
+AC terror that is now coursing through her veins.
+
+DL SIN Bring her into... 
+DL SIN The Amorata Chamber!
+
+AC Madger walks to a bookcase lining the far wall and runs his hand
+AC over the top row of tomes. He pauses at a slim, red volume near
+AC near center and pulls it out abruptly.
+
+AC A wall panel slides open to reveal a large bedroom inside. The
+AC furnishings and linens are all black. And in its center lies a
+AC mammoth iron-wrought four-posted bed.
+
+AC The Curates, with the help of the other family members, carry the
+AC insensible virgin into the inner chamber which shuts behind them.
+
+AC As Katy stops filming, every instinct tells her to flee. But 
+AC her curiosty beckons her to cross the Board Room and press her
+AC ear against the sealed-in hidden wall.
+
+AC CLOSE UP look of sheer DREAD as she listens to the silent but 
+AC dreadful proceedings within. It is left to the imagination 
+AC what particular iniquities the "Rites of Nero" may entail!
+
+AC After a BEAT, Katy remembers herself and her surroundings and
+AC begins a zombiesque walk back toward the Atrium.
+
+AC When suddenly an entrancing object lying on the conference room
+AC table catches her attention.
+
+AC She GRABS hold of The Montresor Book, containing the vast history
+AC of the family's secrets and transgressions. 
+
+AC Katy RUNS out the door with The Book tucked under her arm.
+
+SC INT. EDEN BUNGALOW, SRI LANKA - NIGHT
+
+AC The dishes have all been cleared from the table. As well as the
+AC drone. Its only occupant is the silver metal Tumi case that 
+AC previously belonged to Dr. Gotfrundi in Venice.
+
+AC Although not privy to the post-prandial tales Lise has been 
+AC spinning regarding her fixation with the Montresor Empire,
+AC their effects may be gleaned from the current scene.
+
+AC Pepe sits back at his workstation, typing much SLOWER now. 
+AC He peers over his shoulder at frequent intervals.
+
+AC The veranda double doors are all wide open. As are all the windows. 
+AC Pim and Lise SLOW DANCE on the porch outside. Not to music, but
+AC the tidal rhythm of cresting waves washing ashore.
+
+DL LIS Is this a dream,
+DL LIS within a dream?
+
+DL PIM El Dorado. Part deux.
+
+DL LIS I almost wish...
+
+DL PIM Si, caro...
+
+DL LIS I know if I asked. Just remained
+DL LIS here with you forever. We could
+DL LIS forget about the world...
+
+DL PIM The world has a habit of 
+DL PIM intruding. Even here.
+
+AC An ALARM on Pim's workstation begins flashing.
+
+DL PIM Especially here.
+
+AC He unlocks from Lise and runs over. A few clicks and up pops an 
+AC aerial view rendered in high resolution infrared night vision.
+
+DL PEP Is it the Crimean recon thing?
+
+DL PIM Nope. Stunning Octagon.
+
+DL PEP Who comes up with these code 
+DL PEP names?
+
+PA PIM (looking out at Lise)
+DL PIM A lonely man. In a windowless
+DL PIM sub-basement. Surrounded by
+DL PIM six foot thick concrete walls.
+
+DL PEP You need me to...
+
+DL PIM I've got this.
+
+AC Pim grabs a military-grade joystick and headset unit.
+
+AC Lise walks over and sees the screen.
+
+DL LIS I'll just get ready for bed.
+DL LIS Take your time.
+
+AC Lise kisses the seated Pim on the head and exits.
+
+DL PIM This should be over in a flash.
+
+PA PEP (whispering)
+DL PEP How well do you really know her?
+
+DL PIM She is exactly who she says she
+DL PIM is. One of the few that do.
+
+DL PEP But you heard what she was
+DL PEP saying. "Long bouts of
+DL PEP horrible sanity!"
+
+DL PIM When I met you Pepe, you were
+DL PIM trashing the reputations of 
+DL PIM model citizens. Just for laughs.
+
+DL PEP Yes! Anarchy for anarchy's sake.
+DL PEP But this...
+
+DL PIM What then?
+
+DL PEP El diablo.
+
+AC Lise GLIDES back in wearing a black gossamer robe.
+
+DL LIS I changed my mind, Sotnos.
+PA LIS (lit. "sweetnose," in Swedish)
+DL LIS I want to watch.
+
+AC Pim looks at Pepe. But addresses Lise as she climbs into his lap.
+
+DL PIM Before I forget.
+
+AC He loops a lanyard around her neck. Attached is a THUMB DRIVE
+AC with a secure hardware encryption fob at one end.
+
+DL PIM It's set to yur iris scan
+DL PIM Only your all seeing eye 
+DL PIM can unlock it.
+
+DL LIS The Montresor Smorgasbord!
+
+DL PIM The crown jewels. The Sun.
+DL PIM The Moon... 
+
+DL LIS And The Stars!
+
+AC Lise expresses her gratitude with a SHOWER of affection.
+
+AC In bright phosphorescent green, Pim's screen flashes with the
+AC message: "TARGET LOCK ACQUIRED."
+
+SC EXT. EDEN BAY INLET, SRI LANKA - DAWN
+
+AC Lise is standing in her small speed boat, piloting the skiff away
+AC from the shore and out into the open waters.
+
+AC In the fore section, the black spherical drone from Pim's lair
+AC sits well secured with elastic cords and a tarp.
+
+AC PAN UP to reveal Lise's destination: an anchored MEGA YACHT.
+AC It commands an intimidating presence amongst the traditional 
+AC square-sailed catamarans that criss-cross the bay.
+
+AC As she approaches, a single armed GUARD appears on deck and speaks
+AC into a walkie-talkie while waving her in.
+
+SC INT. ANA MONTRESOR'S APARTMENT
+
+DL KAT I had no where else...
+
+DL ANA Katy, I grew up in this psycho
+DL ANA family. Since I was a baby my
+DL ANA parents spoke of my 
+DL ANA "initiation" into its rites.
+
+PA KAT (shaking)
+DL KAT Desolation! And dimmest night!
+
+DL ANA Please. Calm down. You can trust
+DL ANA me Katy.
+
+DL KAT Can I? Your blood is their blood.
+
+DL ANA Why do you think I work my way
+DL ANA up from the bottom, rather than
+DL ANA taking the gilded path they 
+DL ANA dangle before me?
+
+DL KAT I know, you've said it before.
+DL KAT You want to change things at 
+DL KAT Montresor. Change the world.
+
+DL ANA And once the world bears witness
+DL ANA to their unholy machinations!
+
+DL KAT But this Ana! Atrocities!
+
+DL ANA Show me. The Book. Is it in 
+DL ANA your bag?
+
+DL KAT Yes.
+
+AC Ana removes the folio from Katy's oversized handbag.
+
+DL KAT Until you see, you won't believe.
+
+AC Katy pulls her phone from her back pocket and PLAYS the video she
+AC recorded earlier.
+
+AC Ana watches in a trance of curiosity mixed with revulsion.
+
+AC She stops it within seconds. Then runs to her bathroom to be sick.
+
+AC After, they sit huddled together on the sofa. Survivors of a
+AC shared trauma. 
+
+AC Ana leafs through the leather bound codex page by page.
+
+AC She lets every morbid detail of her family history sink in.
+
+DL ANA When we were young Madger would 
+DL ANA scold us at family get-togethers.
+DL ANA "If you don't straighten up.
+DL ANA You're name will wind up in The
+DL ANA Book!" I was too frightened to
+DL ANA ask what it possibly meant.
+
+DL KAT Do you remember any of the
+DL KAT language? From your summers
+DL KAT in Venice?
+
+DL ANA It's not modern. It's a mix
+DL ANA of Latin and Renaissance words.
+
+DL KAT The drawings suffice.
+
+DL ANA And something else. Mumbo-jumbo,
+DL ANA gobbledeygook, nonsense phrases.
+DL ANA Almost like...
+
+DL KAT Spells?
+
+DL ANA Incantations, perhaps.
+
+DL KAT I heard Sincera utter something. 
+DL KAT Whle she was serving.
+
+DL ANA Did you get it on tape?
+
+DL KAT Yeah, baby. So what's next?
+
+DL ANA Next? We need to get this
+DL ANA translated.
+
+DL KAT Do you remember that site Prof.
+DL KAT Annabelli showed us? During our
+DL KAT Early French Lit class?
+
+DL ANA The Digital Rabelais Project?
+
+DL KAT Yup. Distributed crowd
+DL KAT translation. Courtesy of the
+DL KAT cloud.
+
+DL ANA You didn't happen to bring a
+DL ANA scanner with you by chance?
+
+PA KAT (thinking)
+DL KAT FedEx Office Store?
+
+SC INT. 24HR FEDEX OFFICE STORE - NIGHT
+
+AC Ana runs interference, expertly distracting two graveyard
+AC shift EMPLOYEES. 
+
+AC Meanwhile, Katy multitasks:
+
+AC She OPERATES the flat bed scanner, capturing each infernal page.
+
+AC CLEANS up the scanned pages using bitmap enchancing software. 
+
+AC RUNS the post-processed images through a state-of-the-art optical 
+AC character recognition program.
+
+AC FEEDS the resulting text into an Italian-English machine 
+AC translation interface.
+
+AC And POLISHES the output text into something humans can decipher.
+
+AC All while simultaneously UPLOADING the secret video from her 
+AC phone's SD card to a public video hosting site where it is
+AC TRANSCODED to common mobile web viewable formats.
+
+AC Glimpses of The Book's pages flash on screen.
+
+AC From the Renaissance through the 21st Century, the secrets of the
+AC Montresors at long last: digitized for posterity!
+
+SC INT. NARITA AIRPORT V.I.P. LOUNGE, TOKYO, JAPAN
+
+AC Lise BOWS upon meeting delegates from the Republic of Garika.
+
+AC She inspects a buffet of congealed miso soup, sickly-looking sushi, 
+AC tepid green tea and chilled off-brand saki. She grabs a plate.
+
+AC Lise eats cautiously, attempting to fill heself. Unsure of what
+AC the Garikan food situation will be like, she secrets a few packets
+AC of oyster crackers into her carry-on.
+
+AC IVOR introduces himself as Lise's security escort.
+
+SC EXT. RUNWAY, NARITA AIRPORT - NIGHT
+
+AC The Garikan Welcome Commitee walks Lise briskly onto the chilly
+AC tarmac, where a BOEING BUSINESS CLASS JET is finishing its
+AC refueling and pilot check procedures.
+
+AC Two awaiting FLIGHT ATTENDANTS bow as Lise steps onto the ladder.
+
+AC They exchange a wicked smirk as Lise disappears into the cabin.
+
+SC INT. HOTEL SOFITEL, AMSTERDAM
+
+AC Katy and Ana have fled the country and set up a temporary Black
+AC Ops HQ in the Schermerhorn Suite.
+
+AC SCREEN POV of them registering the domain name "montresor.wtf" 
+AC and HIGH-FIVING.
+
+AC They don GUY FAWKS' MASKS as they set up a camera and prepare
+AC to record an anonymous video statement.
+
+SC EXT. K-101 MOTORWAY, GARIKAN CAPITOL - MORNING
+
+AC Ivor drives a black Mercedes G-85 Jeep. Lise sits by his side,
+AC staring mesmerized out her window.
+
+AC The cityscape of the isolated authoritarian regime is as foreign
+AC to Lise as the moonscape of Mare Tranquilium.
+
+AC Centuries of sustainable cultural development mixed with abundant
+AC natural resource wealth and a persistent, xenophobic disdain of
+AC outside influence has resulted in a civil architecture at once
+AC disorienting yet seductive.
+
+AC And yet, oddly familiar too. Certain motifs begin to stand out:
+
+AC An ongoing Art Festival that resembles the Biennale.
+
+AC A Lido-like beach promenade. 
+
+AC Elements of Moorish, Gothic, and Byzantine architecture 
+AC swirling together.
+
+AC And as they stop at an intersection, an ELECTRIC GONDOLA with
+AC an elegant aristocratic couple in its basket speeds past.
+
+AC Lise follows the conveyance with her eyes and spots a restaurant
+AC across the avenue with a curious name: Fortuna's Grille.
+
+AC Even more beguiling to her sight is its insignia above the
+AC awning. A golden heel crushing a well-fanged serpent!
+
+AC Could it be? The final sanctuary of those noble families of
+AC Venice who fled the rise of Montresor?
+
+AC Out of pure habit, Lise lifts her camera phone to take a SNAPSHOT.
+
+AC Ivor quickly confiscates the phone while shaking his head.
+
+SC INT. CYBER COMMAND, GARIKAN MINISTRY OF DEFENSE
+
+AC Lise is the first foreigner ever to step foot in the digital
+AC War Room, as impressive as anything one would find at 
+AC Langley or the River House.
+
+AC Although the cadre of busy analysts eye Lise wearily, she is
+AC greeted with enthusiasm by the esteemed DR. LUNG, Director.
+
+AC Lise takes the lanyard with encrypted thumb drive from around her
+AC neck as Dr. Lung BEAMS with triumph.
+
+SC INT. FREEWORLD INTERNET CAFE, AMSTERDAM
+
+AC Ana and Katy use the busy cafe's Wifi to conduct their first
+AC voice-scrambled telephone interview with the media.
+
+AC As they congratulate themselves on a job well done, Katy
+AC excuses herself and walks to the restroom.
+
+AC From her bag she pulls out a phone. Different from the one she
+AC used before.
+
+AC She initiates a VIDEO CHAT. The recipiant at the other end of 
+AC the call is none other than Ivor, the Garkian Security Agent!
+
+SC INT. NEURO-OPTOGENICS LAB, GARIKAN CYBER COMMAND
+
+AC The human brain is the ultimate information processing machine.
+
+AC An array of genetically modified super-soldiers with elongated 
+AC skulls lie in shallow vats of translucent warm bubbling goo.
+
+AC Hair thin fibre optic cables attachted directly to their frontal
+AC neo-cortical lobes pulsate with neural activity.
+
+AC Monitors display the velocity and economy of their computing
+AC capabilities.
+
+AC Dr. Lung looks on with pride.
+
+AC Lise expresses a mixture of wonder and fright.
+
+AC Dr. Lung opens the encrypted thumb drive's security bracket as
+AC Lise bends down to let its red laser SCAN her pupil. 
+
+AC It glows green with recognition as it is unlocked.
+
+SC. INT. CYBERSPACE
+
+AC The Garikan-flavored, human-machine hybrid super-intelligence
+AC begins DISSECTING the labyrinth of Montresor's capital holdings.
+
+AC A convolution of off-shore accounts, synthetic corporations and
+AC dark pools of financial assets is probed to find vulnerabilities.
+
+AC Bit by infinitesimal bit, The Agent begins placing market orders
+AC against Montresor's interests.
+
+AC With every high frequency trade executed, the share price of 
+AC publicly traded Montresor stock decreases by a slight tick.
+
+AC The profits generated by the trades are siphoned into a single
+AC brokerage account at the Swiss-based Bank of Helvetica.
+
+SC INT. KHAN ROYAL HOTEL, GURIKAN CAPITOL CITY
+
+AC Lise is exhausted as she jams the key card into the outer door
+AC of her hotel suite.
+
+AC She is SHOCKED as she opens the door and sees Pim and Pepe inside.
+
+AC They nod nonchalantly and continue typing away at their laptops.
+
+AC Lise drops her bags and runs over to embrace Pim.
+
+AC She stops short when she notices the images displayed on a 
+AC television newscast: "BLOOD OF THE MONTRESORS!"
+
+SC EXT. HELVETICA BANK, ZURICH
+
+AC Ivor exits the bank's main doors and climbs into the back seat
+AC of a Maybach limo idling at the curb.
+
+AC Group video chat using the car's built in electronic dash. Among
+AC the faces present are Dr. Lung and Katy Wo. 
+
+AC Ivor gives them all a big double thumbs up!
+
+SC INT. MONTRESOR BOARD ROOM
+
+AC Madger SHOUTS into a Polycom VoiceStation audio conferencing unit
+AC that lies silent on the heavy table. Whomever it was he was
+AC speaking to, has hung up.
+
+AC Sincera and Bellator look on in bewilderment and horror.
+
+AC Madger steps over to the bookshelf and unlocks the mechanism
+AC opening the secret chamber within.
+
+AC He enters and pulls a Venetian-crafted antique Astra A-80 
+AC semi-automatic pistol from the bedside drawer.
+
+AC Bellator RUNS in his direction shouting while Sincera buries
+AC her face in her hands.
+
+SC EXT. MONTRESOR MANOR
+
+AC CLOSE UP on the blood-drained faces of Sincera and Bellator
+AC Montresor locked in a deep final kiss.
+
+AC They pull apart. Bellator gives a signal to someone waiting
+AC offscreen.
+
+AC Frau Ortstien nods and pulls a lever.
+
+AC A gigantic SCYTHE attached to a PENDULUM swings downward!
+
+AC CUT TO BLACK
+
+AC The faint sounds of strained, phlegmatic coughing echo in the 
+AC darkness.
+
+SC INT. CATACOMBS, VENICE
+
+AC FORTUNADO, riven with insanity, choking on the nitre fumes that
+AC emanate from the damp, ancient walls, slowly SUFFOCATES to death.
+
+AC He knows he is near the end. The words "Amontillado" and 
+AC "Montresor" escape from his lips in the faintest of whispers.
+
+AC A light BREEZE hits his face and ruffles his hair.
+
+AC With the last of his strength he lifts his head to see the mason
+AC wall that had sealed him in is GONE!
+
+AC In the antechanber, standing before him, is the immense figure of
+AC an imposing giant clad in Imperial Roman armor. 
+
+AC This is HADES, God of the Underworld. 
+
+AC In his colossal right hand he wields the divine Spear of Triam.
+
+AC He points it at the quivering Fortunado and BELLOWS:
+
+DL HAD Awaken mortal!
+
+DL FOR Death? Is that you?
+
+DL HAD The Shades and Demons inhabiting
+DL HAD my Underworld feed on the
+DL HAD rancor hidden in the hearts of
+DL HAD men such as you. Come!
+
+AC Fortunado's chains dissolve into thin air as he DROPS to his
+AC knees. He stands up cautiously and approaches, still not quite
+AC believing the incredible sight before him.
+
+DL FOR Toward that villain Montresor!
+DL FOR There is enough enmity in my
+DL FOR soul for your legion to feast
+DL FOR for a thousand centuries!
+
+DL HAD You need not wait so long.
+
+DL FOR How?
+
+DL HAD I will grant you a vision. 
+DL HAD The House of Montresor will
+DL HAD enjoy a brief respite before
+DL HAD Fortunado rises again. 
+
+PA FOR (gaining in strength)
+DL FOR Viva. Fortunado.
+
+DL HAD Now follow me. Torrents of
+DL HAD Amontillado await you in the
+DL HAD cellars of my Kingdom! Come and
+DL HAD slake your unholy and bottomless
+DL HAD thirst for Eternity!
+
+DL FOR Amontillado!
+
+DL HAD Amontillado!
+
+AC Laughing, they DESCEND together through the floor and into the
+AC depths of the Underworld.
+
+FO FADE OUT
+
+END

@@ -5,6 +5,7 @@ import (
     "bufio"
     "fmt"
     "os"
+    "strings"
 )
 
 const (
@@ -18,6 +19,8 @@ var (
     err error
     S *bufio.Scanner
     W *bufio.Writer
+    // maps
+    M map[string]string // meta data
 )
 
 func Load() {
@@ -43,10 +46,10 @@ func Head() {
 <title>The Return of Amontillado by Gushi Tang &lt;gushitang@gmail.com&gt;</title>
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=1080,initial-scale=1" />
-<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Lato" />
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Amiko" />
 <style type="text/css">
-body{background-color:rgba(255,255,255,1.0);font-family:'Lato',sans;}
-p{padding:2px;font-size:14px;}
+body{background-color:rgba(255,255,255,1.0);font-family:'Amiko',sans;}
+p{padding:2px;font-size:24px;}
 span.lines{color:rgba(35,35,35,1.0);background-color:rgba(230,230,230,1.0);margin:0px 40px 0px 6px;padding:4px;text-alingn:center;}
 span.script{white-space:pre;font-size:18px;)
 </style>
@@ -55,6 +58,7 @@ span.script{white-space:pre;font-size:18px;)
 <body>
 `
     W.WriteString(hd)
+    // google font: Amiko
 }
 
 func Foot() {
@@ -64,6 +68,32 @@ func Foot() {
     W.WriteString(ft)
 }
 
+func Body() {
+    Meta()
+    i0 := 0
+    for S.Scan() {
+        s0 := fmt.Sprintf("<p id=\"line_%d\">%d</p>\n", i0, i0)
+        W.WriteString(s0)
+        i0 = i0 + 1
+    }
+}
+
+func Meta() {
+    // scan meta data
+    M = make(map[string]string)
+    for i := 0; i < 7; i++ {
+        S.Scan()
+        s0 := S.Text()
+        // fmt.Println(s0)
+        s1 := strings.Split(s0, " ")
+        // fmt.Println(s1[:1],s1[1:])
+        s2 := s1[:1][0]
+        s3 := strings.Join(s1[1:], " ")
+        // M[s1[:1][0]] = s1[1:]
+        M[s2] = s3
+    }
+    fmt.Println(M)
+}
 
 func Clean() {
     defer Retin.Close()
@@ -76,6 +106,7 @@ func main() {
     Load()
     Bufs()
     Head()
+    Body()
     Foot()
     Clean()
 }

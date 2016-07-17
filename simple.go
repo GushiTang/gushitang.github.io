@@ -9,7 +9,8 @@ import (
 
 const (
     // INDEX = "index.html"
-    INDEX = "kapu.html"
+    // INDEX = "kapu.html"
+    INDEX = "return.html"
 )
 
 func main() {

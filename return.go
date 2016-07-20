@@ -21,6 +21,8 @@ var (
     W *bufio.Writer
     // maps
     M map[string]string // meta data
+    C map[string]string // char map
+    E map[string]string // elem map
 )
 
 func Load() {
@@ -70,6 +72,8 @@ func Foot() {
 
 func Body() {
     Meta()
+    Character()
+    Element()
     i0 := 0
     for S.Scan() {
         s0 := fmt.Sprintf("<p id=\"line_%d\">%d</p>\n", i0, i0)
@@ -93,6 +97,38 @@ func Meta() {
         M[s2] = s3
     }
     fmt.Println(M)
+}
+
+func Character() {
+    // scan char map
+    C = make(map[string]string)
+    S.Scan()
+    S.Scan()
+    for i := 0; i < 18; i++ {
+        S.Scan()
+        s0 := S.Text()
+        s1 := strings.Split(s0, " ")
+        s2 := s1[:1][0]
+        s3 := strings.Join(s1[1:], " ")
+        C[s2] = s3
+    }
+    fmt.Println(C)
+}
+
+func Element() {
+    // scan elem map
+    E = make(map[string]string)
+    S.Scan()
+    S.Scan()
+    for i := 0; i < 6; i++ {
+        S.Scan()
+        s0 := S.Text()
+        s1 := strings.Split(s0, " ")
+        s2 := s1[:1][0]
+        s3 := strings.Join(s1[1:], " ")
+        E[s2] = s3
+    }
+    fmt.Println(E)
 }
 
 func Clean() {

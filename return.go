@@ -23,6 +23,9 @@ var (
     M map[string]string // meta data
     C map[string]string // char map
     E map[string]string // elem map
+    // counter
+    X string // curr key
+    Y string // prev key
 )
 
 func Load() {
@@ -51,7 +54,7 @@ func Head() {
 <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Amiko" />
 <style type="text/css">
 body{background-color:rgba(255,255,255,1.0);font-family:'Amiko',sans;}
-p{padding:2px;font-size:24px;}
+p{padding:2px;font-size:18px;}
 span.lines{color:rgba(35,35,35,1.0);background-color:rgba(230,230,230,1.0);margin:0px 40px 0px 6px;padding:4px;text-alingn:center;}
 span.script{white-space:pre;font-size:18px;)
 </style>
@@ -76,8 +79,25 @@ func Body() {
     Element()
     i0 := 0
     for S.Scan() {
-        s0 := fmt.Sprintf("<p id=\"line_%d\">%d</p>\n", i0, i0)
-        W.WriteString(s0)
+        // s0 := fmt.Sprintf("<p id=\"line_%d\">%d</p>\n", i0, i0)
+        // W.WriteString(s0)
+        s0 := S.Text()
+        s1 := strings.Split(s0, " ")
+        s2 := s1[0]
+        // fmt.Println(len(s2))
+        var s3 string
+        if len(s2) == 0 {
+            // line break
+            s3 = fmt.Sprintf("<p id=\"line_%d\"><span class=\"lines\">%d</span></p>\n", i0, i0)
+        } else {
+            // if DL or PA
+            s4 := s1[1:]
+            s5 := strings.Join(s4, " ")
+            // fmt.Println(string(s5))
+            s3 = fmt.Sprintf("<p id=\"line_%d\"><span class=\"lines\">%d</span><span>%s</span></p>\n", i0, i0, s5)
+        }
+        // s2 := fmt.Sprintf("<p id=\"line_%d\">%d</p>\n", i0, s1[0][0])
+        W.WriteString(s3)
         i0 = i0 + 1
     }
 }

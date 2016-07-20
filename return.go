@@ -110,3 +110,9 @@ func main() {
     Foot()
     Clean()
 }
+
+// new file for html5 canvas 
+// static renders
+// digital bitmaps for amontillado logo
+
+

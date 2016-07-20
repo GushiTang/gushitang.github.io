@@ -63,7 +63,7 @@ AC adorns its somewhat inartfully restored side door panel.
 SC EXT. VENICE AIRPORT
 
 AC The ambitious VALENTINO pilots the auto straight into the 
-AC Arrivals Gate of the bustling airport.
+AC International Arrivals Gate of the bustling airport.
 
 AC Other waiting operators shout at him for jumping the queue,
 AC but Valentino has already spotted his target.
@@ -111,18 +111,17 @@ DL VAL Like Venice.
 DL LIS Ever been?
 
 DL VAL I have never been outside of 
-DL VAL Venice, Mrs...
+DL VAL Venice, Signora...
 
-DL LIS Ms. Fortunado. Lise Fortunado.
+DL LIS Signorina. Lise Fortunado.
 
 DL VAL Italiano!
 
 DL LIS American. But my ancestori. 
 DL LIS An old Venitian family.
 PA LIS (inquisitive)
-DL LIS Perhaps you've heard the name? 
-PA LIS (boldly)
-DL LIS Fortunado!
+DL LIS Perhaps the name Fortunado is
+DL LIS familiar to your ears? 
 
 SC EXT. ARCHIVIO STORICO
 
@@ -228,7 +227,7 @@ AC fake smile. A ring of tipsy and famished executives pick at the
 AC tray as it is offered before them.
 
 DL KAT The pink ones are smoked salmon 
-DL KAT mousse with a peanut sriracha 
+DL KAT mousse with a sesame sriracha 
 DL KAT glaze. And the green ones are
 DL KAT Basque-inspired chive and 
 DL KAT potato pintxos.
@@ -1298,7 +1297,7 @@ AC Montresors at long last: digitized for posterity!
 
 SC INT. NARITA AIRPORT V.I.P. LOUNGE, TOKYO, JAPAN
 
-AC Lise BOWS upon meeting delegates from the Republic of Garika.
+AC Lise bows upon meeting DELEGATES from the Republic of Garika.
 
 AC She inspects a buffet of congealed miso soup, sickly-looking sushi, 
 AC tepid green tea and chilled off-brand saki. She grabs a plate.
@@ -1327,7 +1326,7 @@ AC Ops HQ in the Schermerhorn Suite.
 AC SCREEN POV of them registering the domain name "montresor.wtf" 
 AC and HIGH-FIVING.
 
-AC They don GUY FAWKS' MASKS as they set up a camera and prepare
+AC They don GUY FAWKES' MASKS as they set up a camera and prepare
 AC to record an anonymous video statement.
 
 SC EXT. K-101 MOTORWAY, GARIKAN CAPITOL - MORNING

@@ -55,8 +55,14 @@ func Head() {
 <style type="text/css">
 body{background-color:rgba(255,255,255,1.0);font-family:'Amiko',sans;}
 p{padding:2px;font-size:18px;}
-span.lines{color:rgba(35,35,35,1.0);background-color:rgba(230,230,230,1.0);margin:0px 40px 0px 6px;padding:4px;text-alingn:center;}
+span.lines{color:rgba(35,35,35,1.0);background-color:rgba(230,230,230,1.0);margin:0px 40px 0px 6px;padding:4px;text-align:center;}
 span.script{white-space:pre;font-size:18px;)
+span.character{padding:20px;}
+span.scene{font-weight:bold;}
+span.paren{font-style:italic;}
+span.action{}
+span.fadein{margin-left:700px;font-size:20px;}
+span.fadeout{margin-left:700px;font-size:20px;}
 </style>
 <head>
 </head>
@@ -77,6 +83,9 @@ func Body() {
     Meta()
     Character()
     Element()
+    S.Scan()
+    // S.Scan()
+    S.Scan()
     i0 := 0
     for S.Scan() {
         // s0 := fmt.Sprintf("<p id=\"line_%d\">%d</p>\n", i0, i0)
@@ -89,14 +98,16 @@ func Body() {
         // Y = X
         // X = s2
         // fmt.Printf("curr: %s, prev: %s\n", X, Y)
+        // bold flag
+        // b2 := false
         var s3 string
         if len(s1[0]) == 0 {
             // line break
             s3 = fmt.Sprintf("<p id=\"line_%d\"><span class=\"lines\">%d</span></p>\n", i0, i0)
         } else {
             // set curr and prev pointers
-            b0 := strings.Compare(s1[0], Y)
-            fmt.Printf("curr: %s, prev: %s, compare: %d\n", s1[0], Y, b0)
+            // b0 := strings.Compare(s1[0], Y)
+            // fmt.Printf("curr: %s, prev: %s, compare: %d\n", s1[0], Y, b0)
             // if DL or PA
             s4 := s1[1:]
             s5 := strings.Join(s4, " ")
@@ -106,7 +117,7 @@ func Body() {
                 b1 := strings.Compare(s1[1], X)
                 if b1 != 0 {
                     // style margins for char
-                    s6 := fmt.Sprintf("<p id=\"line_%d\"><span class=\"lines\">%d</span><span>%s</span></p>\n", i0, i0, C[s1[1]])
+                    s6 := fmt.Sprintf("<p id=\"line_%d\"><span class=\"lines\">%d</span><span class=\"character\">%s</span></p>\n", i0, i0, C[s1[1]])
                     W.WriteString(s6)
                     i0 = i0 + 1
                 }
@@ -117,8 +128,33 @@ func Body() {
             if s1[0] == "SC" || s1[0] == "AC" {
                 X = ""
                 // style bold for sc
+                /*
+                if s1[0] == "SC" {
+                    b2 = true
+                }
+                */
             }
-            s3 = fmt.Sprintf("<p id=\"line_%d\"><span class=\"lines\">%d</span><span>%s</span></p>\n", i0, i0, s5)
+            /*
+            if b2 == true {
+                s3 = fmt.Sprintf("<p id=\"line_%d\"><span class=\"lines\">%d</span><span class=\"scene\">%s</span></p>\n", i0, i0, s5)
+            } else {
+                s3 = fmt.Sprintf("<p id=\"line_%d\"><span class=\"lines\">%d</span><span>%s</span></p>\n", i0, i0, s5)
+            }
+            */
+            switch s1[0] {
+                case "SC":
+                    s3 = fmt.Sprintf("<p id=\"line_%d\"><span class=\"lines\">%d</span><span class=\"scene\">%s</span></p>\n", i0, i0, s5)
+                case "DL":
+                    s3 = fmt.Sprintf("<p id=\"line_%d\"><span class=\"lines\">%d</span><span class=\"dialogue\">%s</span></p>\n", i0, i0, s5)
+                case "PA":
+                    s3 = fmt.Sprintf("<p id=\"line_%d\"><span class=\"lines\">%d</span><span class=\"paren\">%s</span></p>\n", i0, i0, s5)
+                case "AC":
+                    s3 = fmt.Sprintf("<p id=\"line_%d\"><span class=\"lines\">%d</span><span class=\"action\">%s</span></p>\n", i0, i0, s5)
+                case "FI":
+                    s3 = fmt.Sprintf("<p id=\"line_%d\"><span class=\"lines\">%d</span><span class=\"fadein\">%s</span></p>\n", i0, i0, s5)
+                case "FO":
+                    s3 = fmt.Sprintf("<p id=\"line_%d\"><span class=\"lines\">%d</span><span class=\"fadeout\">%s</span></p>\n", i0, i0, s5)
+            }
             Y = s1[0]
             // X = ""
         }

@@ -24,8 +24,8 @@ var (
     C map[string]string // char map
     E map[string]string // elem map
     // counter
-    X string // curr key
-    Y string // prev key
+    X string // prev char key
+    Y string // prev elem key
 )
 
 func Load() {
@@ -48,7 +48,7 @@ func Head() {
     // write head html5 string
     hd := `<!DOCTYPE>
 <html>
-<title>The Return of Amontillado by Gushi Tang &lt;gushitang@gmail.com&gt;</title>
+<title>The Return of Amontillado</title>
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=1080,initial-scale=1" />
 <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Amiko" />
@@ -83,18 +83,44 @@ func Body() {
         // W.WriteString(s0)
         s0 := S.Text()
         s1 := strings.Split(s0, " ")
-        s2 := s1[0]
+        // s2 := s1[0]
         // fmt.Println(len(s2))
+        // set curr and prev pointers
+        // Y = X
+        // X = s2
+        // fmt.Printf("curr: %s, prev: %s\n", X, Y)
         var s3 string
-        if len(s2) == 0 {
+        if len(s1[0]) == 0 {
             // line break
             s3 = fmt.Sprintf("<p id=\"line_%d\"><span class=\"lines\">%d</span></p>\n", i0, i0)
         } else {
+            // set curr and prev pointers
+            b0 := strings.Compare(s1[0], Y)
+            fmt.Printf("curr: %s, prev: %s, compare: %d\n", s1[0], Y, b0)
             // if DL or PA
             s4 := s1[1:]
             s5 := strings.Join(s4, " ")
             // fmt.Println(string(s5))
+            if s1[0] == "DL" || s1[0] == "PA" {
+                // compare char key
+                b1 := strings.Compare(s1[1], X)
+                if b1 != 0 {
+                    // style margins for char
+                    s6 := fmt.Sprintf("<p id=\"line_%d\"><span class=\"lines\">%d</span><span>%s</span></p>\n", i0, i0, C[s1[1]])
+                    W.WriteString(s6)
+                    i0 = i0 + 1
+                }
+                s4 = s1[2:]
+                s5 = strings.Join(s4, " ")
+                X = s1[1]
+            }
+            if s1[0] == "SC" || s1[0] == "AC" {
+                X = ""
+                // style bold for sc
+            }
             s3 = fmt.Sprintf("<p id=\"line_%d\"><span class=\"lines\">%d</span><span>%s</span></p>\n", i0, i0, s5)
+            Y = s1[0]
+            // X = ""
         }
         // s2 := fmt.Sprintf("<p id=\"line_%d\">%d</p>\n", i0, s1[0][0])
         W.WriteString(s3)

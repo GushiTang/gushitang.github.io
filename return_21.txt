@@ -251,6 +251,8 @@ DL EXE Next year darling, try serving
 DL EXE wine in something larger than
 DL EXE a mere thimble!
 
+AC And begins walking away.
+
 PA EXE (fist pump, stumble)
 DL EXE Viva Montresor!
 
@@ -1132,7 +1134,7 @@ DL PIM Before I forget.
 AC He loops a lanyard around her neck. Attached is a THUMB DRIVE
 AC with a secure hardware encryption fob at one end.
 
-DL PIM It's set to yur iris scan
+DL PIM It's set to your iris scan
 DL PIM Only your all seeing eye 
 DL PIM can unlock it.
 

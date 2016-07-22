@@ -1,0 +1,45 @@
+TITLE Splatter Platters
+AUTHOR Gushi Tang
+EMAIL <gushitang@gmail.com>
+DATE 2016-07-24
+DRAFT 1.0
+GENRE Creepypasta
+ENCODING GT 1.2
+
+CHARACTER MAP
+VAL VALAREE
+TOP TOPPER
+
+ELEMENT MAP
+SC SCENE HEADING
+AC ACTION
+DL DIALOGUE
+PA PARENTHETICAL
+FI FADE IN
+FO FADE OUT
+
+FI FADE IN
+
+SC INT. BALTIMORE OPERA HOUSE - DAY
+
+AC This is it.
+
+AC Center of the universe. Ground zero. Origin of life. The place to be. And be seen.
+
+AC CLOSE in on an enormous rectangular banner composed in the High Swiss modern style of
+AC legendary poster artist, Joseph Mueller-Brockman. 
+
+AC Its hypnotic message reads simply: THE 1959 BALTIMORE RECORD FAIR!
+
+AC Even though Le Nozze Di Figaro was packing in the City's dapper do's just last week,
+AC the Orchestra Pit and Floor Seats have all been cleared away to make room for:
+
+AC Row upon row of exhibition booths. All devoted to the craft of making hit records.
+
+AC CRANE SHOT down from the ceiling. KEY IN on VALAREE, Early 20s. Wearing nothing but
+AC black form-fitting clothes and ballet flats as her armor. And wielding only a brand 
+AC new Pentax 35mm camera as her weapon of choice.
+
+
+
+FO FADE OUT

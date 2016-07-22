@@ -75,6 +75,7 @@ span.fadeout{margin-left:400px;font-size:20px;}
 
 func Foot() {
     ft := `<br /><p>Copyright &copy; 2016 Gushi Tang. All rights reserved.</p>
+        <br /><p>Contact: Gushi Tang &lt;gushitang@gmail.com&gt;</p>
     </body>
 </html>`
     W.WriteString(ft)
@@ -84,6 +85,7 @@ func Body() {
     Meta()
     Character()
     Element()
+    // Info()
     S.Scan()
     // S.Scan()
     S.Scan()

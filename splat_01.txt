@@ -8,6 +8,7 @@ ENCODING GT 1.2
 
 CHARACTER MAP
 VAL VALAREE
+LOX LOX
 TOP TOPPER
 
 ELEMENT MAP
@@ -20,26 +21,26 @@ FO FADE OUT
 
 FI FADE IN
 
-SC INT. BALTIMORE OPERA HOUSE - DAY
+SC INT. LYRIC OPERA HOUSE, BALTIMORE - DAY
 
-AC This is it.
+AC CLOSE on a giant banner that spans the entire stage. Composed in the hypnotic style
+AC of legendary Swiss poster artist, Joseph Mueller-Brockman. It reads simply: 
 
-AC Center of the universe. Ground zero. Origin of life. The place to be. And be seen.
+AC                      THE 1959 BALTIMORE RECORD FAIR
 
-AC CLOSE in on an enormous rectangular banner composed in the High Swiss modern style of
-AC legendary poster artist, Joseph Mueller-Brockman. 
+AC STEADICAM a yard or two behind VALAREE and LOX as they pass down a row of exhibitors.
 
-AC Its hypnotic message reads simply: THE 1959 BALTIMORE RECORD FAIR!
+AC Valaree (21) dressed in beatnik black capri pants, espadrills and a beret. The only 
+AC incongruity in her wardrobe is an "Eternal Love Record's" tee shirt. She lugs a 
+AC canvas bag brimming with swag over her shoulder. A camera strap attached to a 35mm 
+AC Pentax is looped around her neck.
 
-AC Even though Le Nozze Di Figaro was packing in the City's dapper do's just last week,
-AC the Orchestra Pit and Floor Seats have all been cleared away to make room for:
+AC Lox (20) sports the "Gravedigger" style common to the Teen Death Cult fans who adore
+AC Eternal Love's issues. Black drainpipe tuxedo pants, dark brocade waistcoat, 
+AC antique pocketwatch and thick-soled leather boots. A large button with the Eternal 
+AC Love logo: a broken heart with angel's halo inscribed on a tombstone. He carries a 
+AC stack of 45 records in paper sleeve jackets.
 
-AC Row upon row of exhibition booths. All devoted to the craft of making hit records.
-
-AC CRANE SHOT down from the ceiling. KEY IN on VALAREE, Early 20s. Wearing nothing but
-AC black form-fitting clothes and ballet flats as her armor. And wielding only a brand 
-AC new Pentax 35mm camera as her weapon of choice.
-
-
+AC 
 
 FO FADE OUT

@@ -8,7 +8,7 @@ ENCODING GT 1.2
 
 CHARACTER MAP
 VAL VALAREE
-LOX LOX
+ZAN ZAN
 TOP TOPPER
 
 ELEMENT MAP
@@ -28,18 +28,29 @@ AC of legendary Swiss poster artist, Joseph Mueller-Brockman. It reads simply:
 
 AC                      THE 1959 BALTIMORE RECORD FAIR
 
-AC STEADICAM a yard or two behind VALAREE and LOX as they pass down a row of exhibitors.
+AC Even though Mozart and Figaro were packing in the City's dapper do's just last week,
+AC the Orchestra Pit and Floor Seats have all been disassembled to make way for the
+AC largest recording industry trade show in the Universe!
 
-AC Valaree (21) dressed in beatnik black capri pants, espadrills and a beret. The only 
-AC incongruity in her wardrobe is an "Eternal Love Record's" tee shirt. She lugs a 
-AC canvas bag brimming with swag over her shoulder. A camera strap attached to a 35mm 
-AC Pentax is looped around her neck.
+AC STEADICAM a yard behind VALAREE and ZAN, founders of the Eternal Love Records label,
+AC as they shimmy and slide down an endless row of exhibitors.
 
-AC Lox (20) sports the "Gravedigger" style common to the Teen Death Cult fans who adore
+AC Valaree (21) dressed in "Beatnik" black capri pants, espadrills and a beret. And, of
+AC course, a rare, first-edition "Eternal Love Record's" tee shirt. She lugs a canvas
+AC bag brimming with swag over her shoulder. A camera strap attached to a 35mm Pentax
+AC is looped around her neck.
+
+AC Zan (20) sports the "Gravedigger" style common to the Teen Death Cult fans who adore
 AC Eternal Love's issues. Black drainpipe tuxedo pants, dark brocade waistcoat, 
 AC antique pocketwatch and thick-soled leather boots. A large button with the Eternal 
 AC Love logo: a broken heart with angel's halo inscribed on a tombstone. He carries a 
 AC stack of 45 records in paper sleeve jackets.
+
+AC And its not just the cream of the nascent hit record making music industry. But also 
+AC folks Zan and Val consider to be their friends and collaborators, despite their youth. 
+AC They greet every one they meet with affection and gratitude. 
+
+AC Handing out records. Accepting tchotchkes. Living the life.
 
 AC 
 

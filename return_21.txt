@@ -1417,7 +1417,7 @@ AC Lise bends down to let its red laser SCAN her pupil.
 
 AC It glows green with recognition as it is unlocked.
 
-SC. INT. CYBERSPACE
+SC INT. CYBERSPACE
 
 AC The Garikan-flavored, human-machine hybrid super-intelligence
 AC begins DISSECTING the labyrinth of Montresor's capital holdings.
